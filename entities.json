@@ -1,0 +1,66 @@
+{
+  "ask_benefit": [
+    "benefit_type (health insurance)",
+    "benefit_type (dental insurance)",
+    "benefit_type (401k match)",
+    "benefit_type (PTO), benefit_detail (accrual information)",
+    "benefit_type (signing bonus), benefit_detail (availability)",
+    "benefit_type (leave options), document_type (leave policy)",
+    "benefit_type (tuition reimbursement), location (company intranet)",
+    "benefit_type (stock options), benefit_detail (ESPP)",
+    "benefit_type (remote work), action_required (discuss with manager)",
+    "benefit_type (travel and expense), document_type (travel and expense policy), location (company intranet)"
+  ],
+  "find_document": [
+    "document_type (employee handbook), location (company intranet)",
+    "document_type (W-4 tax form), document_type (onboarding checklist), location (onboarding portal)",
+    "document_type (dress code policy)"
+  ],
+  "reset_password": [
+    "action_required (reset password steps)",
+    "action_required (reset password steps), contact_information (IT Helpdesk phone number)",
+    "action_required (reset password steps)",
+    "action_required (reset password steps)",
+    "contact_information (IT Helpdesk)"
+  ],
+  "setup_equipment": [
+    "action_required (access guide), location (company intranet)",
+    "action_required (access guide), location (company intranet)",
+    "action_required (access guide), location (company intranet), contact_information (IT Helpdesk)",
+    "action_required (access guide), document_type (IT onboarding guide), credential_type (username, temporary password)",
+    "action_required (troubleshoot Wi-Fi connection), location (IT onboarding guide), contact_information (IT Helpdesk)"
+  ],
+  "complete_task": [
+    "action_required (access online training), location (company LMS)",
+    "action_required (access benefits portal), location (benefits portal), contact_information (benefits specialist)",
+    "action_required (submit tax forms electronically), location (secure online portal)",
+    "action_required (submit tax forms electronically), location (secure online portal)"
+  ],
+  "ask_question": [
+    "manager_information (name, email, phone number)",
+    "action_required (attend onboarding meeting)",
+    "information_type (company values), location (company website)",
+    "information_type (first week expectations)",
+    "action_required (access time-off system)",
+    "document_type (PTO policy), location (company intranet)",
+    "document_type (dress code policy), document_type (employee handbook)",
+    "location (company intranet)"
+  ],
+  "suggest_improvement": [
+    "contact_information (manager, HR department, IT Helpdesk)",
+    "contact_information (manager, HR department, IT Helpdesk)",
+    "contact_information (manager, HR department, IT Helpdesk)",
+    "contact_information (manager, HR department, IT Helpdesk)"
+  ],
+  "greeting": [
+    "greeting_information(leaving message)",
+    "greeting_information(leaving message)",
+    "greeting_information(leaving message)",
+    "greeting_information(leaving message)",
+    "greeting_information(start message)",
+    "greeting_information(start message)",
+    "greeting_information(start message)",
+    "greeting_information(start message)",
+    "greeting_information(start message)"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "ask_benefit": {
+    "questions": [
+      "What health insurance plans do you offer?",
+      "Can you tell me about the company's dental insurance options?",
+      "How much is my 401(k) match?",
+      "When does my paid time off (PTO) start accruing?",
+      "Are there any signing bonuses for my position?",
+      "What are the different types of leave available (e.g., sick leave, parental leave)?",
+      "Do you offer tuition reimbursement or educational assistance programs?",
+      "Can I see details about the company's stock options plan?",
+      "How does the company handle remote work arrangements?",
+      "What are the travel and expense policies for business trips?"
+    ],
+    "answers": [
+      "We offer several health insurance plans. You can find more details and choose the plan that best suits your needs during the benefits enrollment process.",
+      "The company offers two dental insurance plans (PPO and HMO). You can find detailed information and enrolment instructions in the benefits enrollment document.",
+      "The company offers a 4% match on all employee contributions to the 401(k) plan (up to a maximum of 6% of your salary).",
+      "You start accruing PTO on your first day of employment. The specific accrual rate depends on your position and tenure with the company. You can find more details in the onboarding materials.",
+      "Signing bonuses are not typically offered for your position (Software Engineer). However, we do offer competitive salaries and a comprehensive benefits package.",
+      "The company offers various leave options, including sick leave, vacation leave, parental leave, and bereavement leave. You can find details on eligibility and duration in the employee handbook.",
+      "Yes, the company offers a tuition reimbursement program for employees pursuing job-related educational opportunities. You can find more information and eligibility criteria in the onboarding materials.",
+      "We offer an employee stock purchase plan (ESPP) that allows you to purchase company stock at a discounted price. You'll receive more information about the ESPP during the onboarding process.",
+      "The company offers remote work opportunities for certain positions on a case-by-case basis. You can discuss remote work possibilities with your manager during your onboarding meeting.",
+      "The company has a comprehensive travel and expense policy that outlines guidelines for booking travel, claiming expenses, and other travel-related procedures. You can find the policy document on the company intranet."
+    ]
+  },
+  "find_document": {
+    "questions": [
+      "Where can I find the employee handbook?",
+      "Can I see a copy of the W-4 tax form?",
+      "Do you have a link to the company's dress code policy?"
+    ],
+    "answers": [
+      "You can access the employee handbook on the company intranet. Here's the link: [http://www.linkonboarding.com].",
+      "The W-4 tax form can be found within the onboarding checklist. You can download the onboarding checklist from the onboarding portal.",
+      "The company's dress code policy is considered business casual. You can find more details in the employee handbook."
+    ]
+  },
+  "reset_password": {
+    "questions": [
+      "I can't log in to my account, how do I reset my password?",
+      "I forgot my password, how can I regain access?",
+      "I'm having trouble resetting my password, can you help?",
+      "I received an error message saying my password is incorrect.",
+      "Is there a way to reset my password without my security questions?"
+    ],
+    "answers": [
+      "You can reset your password by following these steps: 1. Visit the company login page. 2. Click on 'Forgot Password?'. 3. Enter your registered email address. 4. You'll receive an email with instructions to reset your password.",
+      "Follow the steps I mentioned earlier for resetting your password. If you're still having trouble, you can contact the IT Helpdesk at [phone number] for further assistance.",
+      "Can you tell me what specific issue you're encountering during the reset process? Knowing the error message might help me guide you better.",
+      "Double-check that you're entering the correct password and using the correct case (uppercase/lowercase). If you're still having trouble, you can reset your password through the company's self-service portal or contact the IT Helpdesk for assistance.",
+      "Unfortunately, resetting your password typically requires answering your security questions. However, if you can't remember them, you can contact the IT Helpdesk for assistance."
+    ]
+  },
+  "setup_equipment": {
+    "questions": [
+      "I'm having trouble setting up my work laptop, can you guide me?",
+      "Do I need to install any specific software on my computer?",
+      "How do I connect to the company's VPN network?",
+      "Is there a guide for setting up my company email account?",
+      "I'm unable to connect to the company Wi-Fi, how can I troubleshoot?"
+    ],
+    "answers": [
+      "We have detailed instructions and troubleshooting guides available on the company intranet. Here's the link to the IT onboarding guide: [link to guide]",
+      "Yes, there are a few essential software programs required for your role. You'll find a list and download links in the IT onboarding guide I mentioned earlier.",
+      "The IT onboarding guide covers the steps for connecting to the company's VPN network. Additionally, you can contact the IT Helpdesk for real-time assistance.",
+      "The IT onboarding guide includes instructions for setting up your company email account. You'll need your username and a temporary password provided during onboarding.",
+      "Check if you're entering the correct Wi-Fi network name and password. If you're still having trouble, the IT onboarding guide might have troubleshooting steps. You can also contact the IT Helpdesk for assistance."
+    ]
+  },
+  "complete_task": {
+    "questions": [
+      "How do I complete the online onboarding training modules?",
+      "Can you help me navigate the benefits enrollment process?",
+      "Where can I submit my completed tax forms electronically?",
+      "How do I set up my direct deposit for my paycheck?"
+    ],
+    "answers": [
+      "You can access the online onboarding training modules through the company learning management system (LMS). You'll receive login information for the LMS during onboarding.",
+      "The benefits enrollment process is completed online through the company's benefits portal. You can access the portal here: [link to benefits portal]. If you have any questions, you can contact the benefits specialist for assistance.",
+      "You can submit your completed tax forms electronically through the company's secure online portal. You'll receive instructions for accessing the portal in your onboarding materials.",
+      "The instructions for setting up direct deposit are located in your onboarding materials."
+    ]
+  },
+  "ask_question": {
+    "questions": [
+      "Who is my manager and what is their contact information?",
+      "When will I be assigned to a specific team or project?",
+      "What are the company's core values?",
+      "What are the expectations for my first week of work?",
+      "How do I request time off?",
+      "Can I get more information about the company's paid time off (PTO) policy?",
+      "What are the company's dress code guidelines?",
+      "Do you have information about upcoming company events or social activities?"
+    ],
+    "answers": [
+      "Your manager is [Manager Name]. Their contact information is [Manager Email Address] and [Manager Phone Number] (if available).",
+      "You will be assigned to a specific team and project during your onboarding meeting with your manager. This meeting is typically scheduled within your first week.",
+      "The company's core values are [list company values]. You can find more information about the company culture on the careers page of our website: [link to careers page].",
+      "You can expect to complete the online onboarding training modules, attend introductory meetings with your team and manager, and begin familiarizing yourself with your role and responsibilities.",
+      "You can request time off through the company's time-off management system. You can find instructions for accessing the system and submitting requests in the employee handbook.",
+      "The company's PTO policy outlines the different types of leave available, eligibility requirements, and accrual rates. You can find the policy document on the company intranet.",
+      "The company dress code is considered business casual. You can find more details in the employee handbook.",
+      "The company calendar is a good resource for information about upcoming events and social activities. You can access the calendar on the company intranet: [link to calendar]."
+    ]
+  },
+  "suggest_improvement": {
+    "questions": [
+      "I found the onboarding process to be very informative and helpful.",
+      "I think the onboarding process could be improved by providing more information about the company culture.",
+      "I had some difficulty setting up my work laptop. Perhaps including more detailed troubleshooting guides would be beneficial.",
+      "Overall, I'm satisfied with the onboarding process, but it would be helpful to have a point of contact for any questions I have in the future."
+    ],
+    "answers": [
+      "Thank you for your feedback! We appreciate you letting us know.",
+      "Thank you for your feedback. We'll consider your suggestion for future improvements.",
+      "Thank you for letting us know. We'll look into adding more troubleshooting resources to the onboarding materials.",
+      "You can always reach out to your manager or the HR department for any questions you might have. Additionally, you can contact the IT Helpdesk for technical issues."
+    ]
+  },
+  "greeting": {
+    "questions": [
+      "Bye",
+      "Goodbye",
+      "Thank you, Thanks",
+      "Talk to you later",
+      "Ciao",
+      "Hi",
+      "Hi there",
+      "Hello",
+      "Good [morning/afternoon/evening]"
+    ],
+    "answers": [
+      "It was a pleasure assisting you today. Please don't hesitate to reach out if you have any further questions during your onboarding process.",
+      "Thanks for stopping by! I hope this information helped you with onboarding. Feel free to come back if you have any other questions in the future.",
+      "It was a pleasure assisting you today. Please don't hesitate to reach out if you have any further questions during your onboarding process.",
+      "Great chatting with you! I know starting a new job can be overwhelming, so remember, we're here to support you. Have a fantastic first day!",
+      "That should do it for now! Feel free to ping me back if anything else pops up. Welcome to the team!",
+      "Hi! How can I help you with your onboarding today?",
+      "Hi! How can I help you with your onboarding today?",
+      "Welcome! We're excited to have you join the team. Is there anything specific you'd like to know about getting started?",
+      "Hi! Is there anything I can assist you with today?"
+    ]
+  }
+}
