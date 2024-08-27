@@ -1,5 +1,14 @@
 import nltk
 import os
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import MultinomialNB
+import streamlit as st
+import json
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
 
 # Define the custom NLTK data directory
 nltk_data_path = os.path.join(os.path.dirname(__file__), 'nltk_data')
@@ -14,17 +23,6 @@ nltk.data.path.append(nltk_data_path)
 # Download required NLTK datasets
 nltk.download('punkt', download_dir=nltk_data_path)
 nltk.download('wordnet', download_dir=nltk_data_path)
-
-# Rest of your imports and code
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.naive_bayes import MultinomialNB
-import streamlit as st
-import json
-from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
 
 # Load intents and entities
 with open('intents.json', 'r') as file:
