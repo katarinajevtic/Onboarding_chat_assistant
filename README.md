@@ -44,4 +44,7 @@ nltk.download('wordnet')
 
 ![onboarding_assistant1](https://github.com/user-attachments/assets/d2f379f3-bb81-4bd1-b1c6-caf8b02ba395)
 
+
+## License
+This project is licensed under the MIT License. See the [LICENCE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for more details.
    
