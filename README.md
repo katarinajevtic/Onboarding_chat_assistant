@@ -1,5 +1,5 @@
 # Onboarding Chat Assistant
-Onboarding Chat Assistant is a simple chatbot designed to assist with onboarding tasks, utilizing Natural Language Processing (NLP) to understand and respond to user queries.
+[Onboarding Chat Assistant](https://appchatassistant.streamlit.app) is a simple chatbot designed to assist with onboarding tasks, utilizing Natural Language Processing (NLP) to understand and respond to user queries.
 ## Features
 + NLP-based: The chatbot uses NLTK for text preprocessing and Scikit-learn's Naive Bayes classifier for intent recognition.
 + Customizable: You can easily extend the chatbot by modifying the `intents.json` and ` entities.json `files.
@@ -36,6 +36,9 @@ nltk.download('wordnet')
 
 + Enter your query in the text input field.
 + The chatbot will process your input and respond with the most relevant answer.
+
+## Streamlit App
+[Onboarding Chat Assistant ](https://appchatassistant.streamlit.app)
 
   ## 
 
