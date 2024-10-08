@@ -11,6 +11,7 @@ import numpy as np
 
 nltk.download('punkt')
 nltk.download('wordnet')
+nltk.download('stopwords')
 
 with open('intents.json', 'r') as file:
     intents = json.load(file)
